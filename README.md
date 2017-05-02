@@ -1,4 +1,4 @@
-o---
+---
 services: app-service\web,app-service
 platforms: nodejs
 author: cephalin
