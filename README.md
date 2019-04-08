@@ -1,7 +1,11 @@
 ---
-services: app-service\web,app-service
-platforms: nodejs
-author: cephalin
+topic: MEAN.js sample for Azure App Service
+languages:
+  - javascript
+  - nodejs
+products:
+  - Azure App Service
+  - Azure Web Apps
 ---
 
 # MEAN.js sample for Azure App Service
