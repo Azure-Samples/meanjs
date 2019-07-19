@@ -1,11 +1,12 @@
 ---
-topic: MEAN.js sample for Azure App Service
 languages:
-  - javascript
-  - nodejs
+- nodejs
+- javascript
+page_type: sample
+description: "This is a sample application that you can use to follow along with the Build a Node.js and MongoDB web app in Azure tutorial."
 products:
-  - Azure App Service
-  - Azure Web Apps
+- azure
+- azure-app-service
 ---
 
 # MEAN.js sample for Azure App Service
