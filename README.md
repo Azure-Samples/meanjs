@@ -20,7 +20,7 @@ To learn how to build this sample step by step, see [Running Mean.js App on Azur
 
 ## License
 
-See [LICENSE](LICENSE).
+See [LICENSE](https://github.com/Azure-Samples/meanjs/blob/master/LICENSE.md).
 
 ## Contributing
 
